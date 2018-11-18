@@ -1,2 +1,2 @@
 # pykafkacassandra
-python codes to connect cassandra to kafka db connector
+python codes to start communication between kafka & cassandra
